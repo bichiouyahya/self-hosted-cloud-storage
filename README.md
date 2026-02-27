@@ -10,7 +10,8 @@ Designed and deployed a secure self-hosted cloud storage server using Ubuntu Ser
 - No public port forwarding configured
 <img width="461" height="51" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/703fea0c-e25b-4aed-bd62-3f5b875a318c" />
 
-## Implementation Steps (you can find snippets of platform in the screenshot folder)
+## Implementation Steps
+(snippets of platform are available in the screenshot folder)
 
 ### 1. Base System Setup
 - Installed Ubuntu Server 24.04 LTS on an old computer 
